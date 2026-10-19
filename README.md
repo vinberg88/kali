@@ -1,6 +1,6 @@
-# kali - Under WORK for WSL.
+# Kali Linux - Under WORK for WSL.
 
-About Kalr LINUX for WSL # kali - Under WORK and comming SONE. 
+About kali LINUX for WSL - Under WORK and comming SONE. 
 
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as
 Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. A version of Kali is always close to 
