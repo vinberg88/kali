@@ -11,11 +11,23 @@ Virtual Machine, Installer Images, and others are all available. Kali Linux is a
 geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and
 Reverse Engineering.
 
+---
 
 <p align="center">
 <a href="https://github.com/vinberg88">
 <img width="1920" height="1080" alt="kalilinux" src="https://github.com/user-attachments/assets/c8e951c9-a217-4446-ba00-f68b4615d6c8" />
 </p>
+
+---
+
+Tested Deskrop for KALI LINUX - KDE 6 FOR WSL AND KALI LINUX - 2026
+
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="1920" height="1080" alt="KALI-LINUX-KDE6" src="https://github.com/user-attachments/assets/585d022d-14e5-4573-bd7f-2e02cf91575c" />
+</p>
+
+---
 
 Reegars,
 Mattias Vinberg - Stockholm - Sweden - 2026
