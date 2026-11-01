@@ -1,6 +1,6 @@
 # Kali Linux and KDE 6 and More desktops.
 
-About kali LINUX for WSL - Under WORK and comming SONE. 
+About kali LINUX for WSL - Find desktops to install via WSL and KALI linux - 2026 
 
 Test diffrent desktops via KALI LINUX and WSL.
 
