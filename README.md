@@ -24,7 +24,7 @@ KDE 6 FOR WSL AND KALI LINUX - 2026
 
 How to install KDE 6 via KALI LINUX - https://github.com/vinberg88/kali/blob/main/KALI-LINUX-KDE6.txt
 
-Movie fronm YouTube are comminng SONE...
+Movie fronm YouTube are comming SONE...
 
 <p align="center">
 <a href="https://github.com/vinberg88/kali/blob/main/KALI-LINUX-KDE6.txt">
