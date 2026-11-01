@@ -4,6 +4,15 @@ About kali LINUX for WSL - Find desktops to install via WSL and KALI linux - 202
 
 Test diffrent desktops via KALI LINUX and WSL.
 
+---
+
+<p align="center">
+<a href="https://github.com/vinberg88">
+<img width="684" height="215" alt="kali" src="https://github.com/user-attachments/assets/49fcc8ad-f9e2-4c71-9dae-c006e35543c8" />
+</p>
+
+---
+
 Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as
 Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. A version of Kali is always close to 
 you, no matter where you need it. Mobile devices, Containers, ARM, Cloud providers, Windows Subsystem for Linux, Pre-built
