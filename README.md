@@ -1,4 +1,4 @@
-# Kali Linux - Under WORK for WSL.
+# Kali Linux and KDE 6 and More desktops.
 
 About kali LINUX for WSL - Under WORK and comming SONE. 
 
@@ -20,12 +20,23 @@ Reverse Engineering.
 
 ---
 
-Tested Deskrop for KALI LINUX - KDE 6 FOR WSL AND KALI LINUX - 2026
+KDE 6 FOR WSL AND KALI LINUX - 2026
+
+How to install KDE 6 via KALI LINUX - https://github.com/vinberg88/kali/blob/main/KALI-LINUX-KDE6.txt
+
+Movie fronm YouTube are comminng SONE...
 
 <p align="center">
-<a href="https://github.com/vinberg88">
+<a href="https://github.com/vinberg88/kali/blob/main/KALI-LINUX-KDE6.txt">
 <img width="1920" height="1080" alt="KALI-LINUX-KDE6" src="https://github.com/user-attachments/assets/585d022d-14e5-4573-bd7f-2e02cf91575c" />
 </p>
+
+About KDE 6 - The next generation desktop - https://kde.org
+
+KDE is an international team co-operating on development and distribution of Free, Open ource Software for desktop and 
+portable computing. Our community has developed a wide variety of applications for communication, work, education and entertainment.
+We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant, open atmosphere for
+experimentation. KDE is The next generation desktop for Linux.
 
 ---
 
