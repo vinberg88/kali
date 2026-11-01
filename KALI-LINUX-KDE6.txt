@@ -1,7 +1,7 @@
 KALI LINUX AND KDE 6 - HOW TO INSTALL KDE 6 VIA WINDOWS 11 and Kali LINUX - WSL - X410 - YouTUBE - 2026
 
 How to install KDE on KALI LINUX - WSL - TEXT via GITHUB.
-Comming SONE...
+https://github.com/vinberg88/kali/blob/main/KALI-LINUX-KDE6.txt
 
 How to install KDE on KALI LINUX - WSL - MOVIE via YouTUBE.
 Comming SONE...
